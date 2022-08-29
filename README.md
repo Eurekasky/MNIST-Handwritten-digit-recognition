@@ -1,2 +1,1 @@
-# NeuralNetWork-Learning
-保存个人学习神经网络的资料/Save my files on an individual learning neural network
+# 四层神经网络手写数字识别项目/Four-layer neural network handwritten digit recognition project
